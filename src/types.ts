@@ -60,7 +60,7 @@ export interface Award {
 
 export interface Certificate {
   name: string;
-  issuer: string;
+  issuer: string | null;
   date: string;
   number?: string;
   grade?: string;
@@ -69,18 +69,9 @@ export interface Certificate {
 }
 
 export interface Skills {
-  operating_systems?: string[];
-  languages?: string[];
-  cloud?: string[];
-  networking?: string[];
-  frameworks?: string[];
-  databases?: string[];
+  core?: string[];
   tools?: string[];
-  virtualization?: string[];
-  security?: string[];
-  technical?: string[];
-  leadership?: string[];
-  soft?: string[];
+  scientific_and_technical?: string[];
 }
 
 export interface Project {
@@ -99,4 +90,5 @@ export interface Cv {
   awards: Award[];
   skills: Skills;
   projects: Project[];
+  target_roles?: string[];
 }

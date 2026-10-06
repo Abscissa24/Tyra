@@ -1,245 +1,201 @@
 {
   "basics": {
-    "name": "Aarishta Pillay",
+    "name": "Tyra Premraj",
     "nickname": "",
-    "label": "Bachelor of Education Graduate",
-    "summary": "Bachelor of Education graduate from STADIO Faculty of Education, with extensive coursework and certifications in education. Proven ability to engage with diverse audiences effectively. Eager to contribute to educational projects and gain practical experience. Committed to enhancing educational initiatives through active participation.",
+    "label": "Biomedical Sciences Student",
+    "summary": "Biomedical Sciences student with experience in quality-focused administration, data verification, reconciliation, compliance documentation and record management. Strong scientific foundation in microbiology, immunology, molecular biology and clinical biochemistry. Recognised for accuracy, reliability and attention to detail. Seeking opportunities in Quality Control, Quality Assurance, Laboratory Operations, Pharmaceutical Manufacturing and Food Manufacturing.",
     "location": {
-      "city": "Waunakee",
-      "countryCode": "US",
-      "region": "WI"
+      "city": "Port Shepstone",
+      "countryCode": "ZA",
+      "region": "KwaZulu-Natal"
     },
     "socials": [
       {
         "network": "email",
-        "url": "mailto:aarishtapillay@gmail.com"
+        "url": "mailto:tyrapremraj@gmail.com"
+      },
+      {
+        "network": "phone",
+        "url": "tel:+27793104885"
       },
       {
         "network": "linkedin",
-        "url": "https://www.linkedin.com/in/aarishtapillay"
-      },
-      {
-        "network": "website",
-        "url": "https://us.bold.pro/my/aarishta-pillay"
+        "url": "https://www.linkedin.com/in/tyra-premraj"
       }
     ]
   },
   "work": [
     {
-      "name": "Cultural Care Au Pair, USA",
-      "position": "Au Pair & Ambassador",
+      "name": "Brandz",
+      "position": "Creditors, Compliance & Administrative Assistant",
       "location_type": "On-site",
-      "location": "Waunakee, WI, USA",
+      "location": "Port Shepstone, South Africa",
       "url": null,
-      "startDate": "2025-01-01",
+      "startDate": "2024-03-01",
       "endDate": null,
       "responsibilities": [
-        "Mentored other au pairs needing support or guidance before traveling.",
-        "Oversaw daily activities and developmental needs of two host children."
+        "Verify and reconcile supplier statements to ensure data integrity and accuracy.",
+        "Investigate discrepancies and implement corrective actions.",
+        "Maintain auditable records and controlled documentation.",
+        "Reconcile and verify store cash-ups and resolve variances.",
+        "Generate reports and maintain accurate operational records."
       ]
     },
     {
-      "name": "Preply",
-      "position": "Online TEFL/ESL Educator",
-      "location_type": "Remote",
-      "location": "Durban, South Africa",
-      "url": null,
-      "startDate": "2024-06-01",
-      "endDate": "2025-01-31",
-      "responsibilities": [
-        "Researched innovative pedagogical methods for teaching English as a second language.",
-        "Incorporated intersectionality to compare historic texts with contemporary cultural contexts.",
-        "Integrated technology into lessons to engage students and diversify instructional methods."
-      ]
-    },
-    {
-      "name": "The Bright Eyes Trust",
-      "position": "ECD Practitioner Volunteer",
+      "name": "SkinMD Dermatology",
+      "position": "Medical Receptionist",
       "location_type": "On-site",
-      "location": "Durban, Musgrave, South Africa",
+      "location": "Port Shepstone, South Africa",
       "url": null,
-      "startDate": "2024-02-01",
-      "endDate": "2025-11-30",
+      "startDate": "2023-06-01",
+      "endDate": "2024-02-29",
       "responsibilities": [
-        "Delivered critical early intervention services to visually impaired young children.",
-        "Implemented specialized interventions promoting healthy physical, cognitive, and emotional development.",
-        "Fostered exploration and curiosity in visually impaired children to enhance confidence."
+        "Maintained confidential patient records with a high degree of accuracy.",
+        "Verified medical information and supporting documentation.",
+        "Coordinated referrals and ensured documentation compliance."
       ]
     },
     {
-      "name": "Port Shepstone Senior Primary",
-      "position": "Examination Assistant",
+      "name": "Incredible Connection",
+      "position": "Sales Executive",
       "location_type": "On-site",
       "location": "Port Shepstone, South Africa",
       "url": null,
       "startDate": "2022-06-01",
-      "endDate": "2022-07-31",
+      "endDate": "2023-06-30",
       "responsibilities": [
-        "Maintained meticulous records of scripts received, marks recorded, and arrangements per district and subject.",
-        "Controlled distribution and scanning processes for scripts to enhance operational efficiency.",
-        "Executed script dispatching and created comprehensive marking center files."
+        "Performed inventory verification and stock control activities.",
+        "Maintained accurate product and transaction records.",
+        "Supported inventory accuracy through stock reconciliations."
       ]
-    },
-    {
-      "name": "Port Shepstone Primary School",
-      "position": "Education Assistant",
-      "location_type": "On-site",
-      "location": "Port Shepstone, South Africa",
-      "url": null,
-      "startDate": "2021-11-01",
-      "endDate": "2022-03-31",
-      "responsibilities": [
-        "Facilitated educational and social development for learners in a safe and clean classroom.",
-        "Supervised group activities to promote engagement and drafted lesson plans.",
-        "Served as relief staff, corrected assignments and ensured continuity in educational delivery."
-      ]
-    },
-    {
-      "name": "Marburg Primary School",
-      "position": "Education Assistant",
-      "location_type": "On-site",
-      "location": "Marburg, South Africa",
-      "url": null,
-      "startDate": "2020-12-01",
-      "endDate": "2021-03-31",
-      "responsibilities": []
     }
   ],
   "education": [
     {
-      "institution": "STADIO",
+      "institution": "University of South Africa",
       "url": null,
-      "area": "Bachelor of Education: Intermediate Phase Teaching (International)",
+      "area": "Bachelor of Life Sciences (Biomedical Sciences)",
       "studyType": "Bachelor's Degree",
-      "startDate": null,
-      "endDate": "2025-05-31",
-      "summary": "South African Studies Abroad on Intermediate Phase Teaching (Grades 4-7). Majored in Science, Mathematics and Special Needs Education. Research: Qualitative, quantitative and mixed methods data."
+      "startDate": "2024-01-01",
+      "endDate": "2027-12-31",
+      "summary": "Relevant Modules: Microbiology, Immunology, Molecular Biology, Clinical Biochemistry, Clinical Pathology, Pharmacology, Microbial Ecology. Academic Distinctions: Human Anatomy & Physiology (83%), Basic Biology (82%), Microbial Ecology (81%), Immunology (80%)."
     },
     {
-      "institution": "STADIO",
+      "institution": "University of South Africa",
       "url": null,
-      "area": "Higher Certificate in Early Childhood Development: Early Childhood Education and Care",
+      "area": "Higher Certificate in Physical Science",
       "studyType": "Higher Certificate",
-      "startDate": null,
-      "endDate": "2024-12-31",
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31",
       "summary": null
-    },
-    {
-      "institution": "UPSKILLIST",
-      "url": null,
-      "area": "Diploma In Childcare Training: Early Childhood Care and Education (International)",
-      "studyType": "Diploma",
-      "startDate": "2024-06-04",
-      "endDate": "2024-06-04",
-      "summary": "Grade: Distinction"
-    },
-    {
-      "institution": "Port Shepstone Secondary School",
-      "url": null,
-      "area": "Matric",
-      "studyType": "National Senior Certificate",
-      "startDate": null,
-      "endDate": "2019-12-31",
-      "summary": "Awarded English DeBeers, 2019. Certificate of Distinction: Life Orientation."
     }
   ],
   "certificates": [
     {
-      "name": "TRA Certificate Evaluation (80-lesson)",
-      "issuer": "Teacher Record",
-      "date": "2023-08-10",
-      "number": "TRA801692144872"
+      "name": "Bloodborne Pathogens Training",
+      "issuer": null,
+      "date": "2022"
     },
     {
-      "name": "Teaching English as a Foreign Language Course (120 Hours)",
-      "issuer": "TEFL Professional Institute - Teacher Record",
-      "date": "2022-07-01",
-      "number": "TR3123284950",
-      "grade": "Distinction"
+      "name": "Understanding Clinical Research",
+      "issuer": null,
+      "date": "2022"
     },
     {
-      "name": "Provisional Registration (Student Teacher)",
-      "issuer": "South African Council for Educators (SACE)",
-      "date": "2024-08-07",
-      "number": "P12997817",
-      "expires": "2025-08-07"
+      "name": "Infection Prevention and Control Principles",
+      "issuer": null,
+      "date": "2023"
     },
     {
-      "name": "Heartsaver Pediatric First Aid CPR AED (Online Portion)",
-      "issuer": "American Heart Association",
-      "date": "2024-11-16",
-      "number": "IMP24Z31WX13"
-    },
-    {
-      "name": "Foundation Phase Initiative: Grade R - Implementing manipulatives through play-based learning",
-      "issuer": "Department of Basic Education / UNICEF / Care for Education / SACE / The LEGO Foundation",
-      "date": "2025-01-02",
-      "points": "15 PD points"
-    },
-    {
-      "name": "Foundation Phase Initiative: Grade 1 - Implementing manipulatives through play-based learning",
-      "issuer": "Department of Basic Education / UNICEF / Care for Education / SACE / The LEGO Foundation",
-      "date": "2025-01-03",
-      "points": "15 PD points"
-    },
-    {
-      "name": "Foundation Phase Initiative: Grade 2 - Implementing manipulatives through play-based learning",
-      "issuer": "Department of Basic Education / UNICEF / Care for Education / SACE / The LEGO Foundation",
-      "date": "2025-01-03",
-      "points": "15 PD points"
-    },
-    {
-      "name": "Foundation Phase Initiative: Grade 3 - Implementing manipulatives through play-based learning",
-      "issuer": "Department of Basic Education / UNICEF / Care for Education / SACE / The LEGO Foundation",
-      "date": "2024-12-27",
-      "points": "15 PD points"
+      "name": "Supervisory Skills Certification",
+      "issuer": null,
+      "date": "2021"
     }
   ],
   "awards": [
     {
-      "title": "English DeBeers",
-      "date": "2019",
-      "awarder": "Port Shepstone Secondary School"
-    },
-    {
-      "title": "Certificate of Distinction: Life Orientation",
-      "date": "2019",
-      "awarder": "Port Shepstone Secondary School"
+      "title": "Certificate of Reliability & Dependability",
+      "date": "2026",
+      "awarder": "Brandz"
     }
   ],
   "skills": {
-    "languages": [
-      "English (Native/Bilingual)",
-      "South African Sign Language (Full Professional)",
-      "Afrikaans (Professional)",
-      "IsiZulu (Limited)"
+    "core": [
+      "Quality Control",
+      "SOP Compliance",
+      "Documentation Control",
+      "Quality Assurance",
+      "Data Integrity",
+      "Audit Readiness",
+      "Root Cause Analysis",
+      "Record Traceability",
+      "Regulatory Compliance",
+      "Sample Handling",
+      "Laboratory Safety"
     ],
     "tools": [
-      "Microsoft Suite"
+      "Microsoft Excel",
+      "Microsoft Word",
+      "Microsoft Outlook",
+      "Microsoft Teams",
+      "Pastel Accounting",
+      "SAP SRS",
+      "Elixir",
+      "GAAP Systems"
     ],
-    "technical": [
-      "Lesson design",
-      "Analytical reporting and presentation"
-    ],
-    "leadership": [
-      "Teamwork and collaboration"
-    ],
-    "soft": [
-      "Rapid learning",
-      "Detail-oriented approach",
-      "Reliable and dependable",
-      "Flexible mindset"
+    "scientific_and_technical": [
+      "Basic Microbiology",
+      "Laboratory Safety",
+      "Experimental Documentation",
+      "Data Analysis",
+      "Equipment Calibration Awareness",
+      "Quality Control Principles"
     ]
   },
+  "target_roles": [
+    "Quality Control Assistant",
+    "Quality Assurance Assistant",
+    "Laboratory Assistant",
+    "Laboratory Administrator",
+    "Documentation Controller",
+    "Compliance Administrator",
+    "Food Safety Assistant"
+  ],
   "projects": [
     {
-      "name": "TPIP 200 e-PoE (Teaching Practice Portfolio of Evidence)",
-      "description": "Comprehensive teaching practicum portfolio for Grade 4 intermediate phase at Junagarth Road Primary School, featuring 6 formal lesson plans across Mathematics, English Home Language, Natural Sciences & Technology, and Life Skills. Included original learning resources, interactive classroom activities, and non-teaching administrative duties.",
+      "name": "Eagles Church Ministry",
+      "description": "Volunteer ministry and community outreach supporting congregation care, outreach programmes, and church operations in Port Shepstone.",
       "highlights": [
-        "Achieved a 90% mark on the STADIO-assessed formal Mathematics lesson on Symmetry, featuring interactive paint-folding and monster mirror-image activities.",
-        "Scored 85% on a Natural Sciences & Technology practical lesson on heat energy transfer using multi-temperature water experiments.",
-        "Delivered structured English Home Language and Life Skills lessons focused on instructional procedures, weather reports, and social responsibility.",
-        "Completed and verified extensive non-teaching duties including break supervision, lunch distribution for indigent learners, computer literacy assistance, and remedial classes."
+        "Support planning and coordination of outreach events and weekly ministry activities.",
+        "Maintain accurate attendance, volunteer, and pastoral-care records with confidentiality.",
+        "Provide welcoming, dependable support to congregants and vulnerable community members.",
+        "Uphold safeguarding, accountability, and clear communication across ministry teams."
+      ],
+      "technologies": [
+        "Community Outreach",
+        "Event Coordination",
+        "Pastoral Support",
+        "Record Management",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Practical Research at the University of South Africa",
+      "description": "Hands-on practical research within the Bachelor of Life Sciences (Biomedical Sciences), applying microbiology, immunology, molecular biology, and clinical biochemistry in a controlled laboratory setting.",
+      "highlights": [
+        "Apply aseptic technique, laboratory safety, and SOP discipline during practical sessions.",
+        "Prepare, document, and trace experiments with accurate, auditable lab records.",
+        "Analyse and reconcile experimental data with attention to integrity and repeatability.",
+        "Connect findings to quality-control principles used in clinical and manufacturing laboratories."
+      ],
+      "technologies": [
+        "Microbiology",
+        "Molecular Biology",
+        "Immunology",
+        "Clinical Biochemistry",
+        "Laboratory Safety",
+        "Experimental Documentation",
+        "Data Analysis"
       ]
     }
   ]

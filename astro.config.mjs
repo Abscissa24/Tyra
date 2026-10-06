@@ -8,7 +8,7 @@ import { defineConfig } from "astro/config";
 // GitHub Pages serves it at https://abscissa24.github.io/<repo>/
 export default defineConfig({
   site: "https://abscissa24.github.io",
-  base: 'Aarishta',
+  base: 'Tyra',
   trailingSlash: 'always',
   build: {
     format: 'directory',

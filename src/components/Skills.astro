@@ -1,34 +1,12 @@
 ---
 import { skills } from "@cv";
 import Section from "./Section.astro";
-const {
-  operating_systems,
-  languages,
-  cloud,
-  networking,
-  frameworks,
-  databases,
-  tools,
-  virtualization,
-  security,
-  technical,
-  leadership,
-  soft,
-} = skills;
+const { core, tools, scientific_and_technical } = skills;
 
 const skillCategories = [
-  { title: "Operating Systems", items: operating_systems ?? [] },
-  { title: "Languages", items: languages ?? [] },
-  { title: "Frameworks", items: frameworks ?? [] },
-  { title: "Databases", items: databases ?? [] },
-  { title: "Cloud", items: cloud ?? [] },
-  { title: "Networking", items: networking ?? [] },
-  { title: "Virtualization", items: virtualization ?? [] },
-  { title: "Security", items: security ?? [] },
+  { title: "Core", items: core ?? [] },
   { title: "Tools", items: tools ?? [] },
-  { title: "Technical & Analytical", items: technical ?? [] },
-  { title: "Leadership & Management", items: leadership ?? [] },
-  { title: "Soft Skills", items: soft ?? [] },
+  { title: "Scientific & Technical", items: scientific_and_technical ?? [] },
 ].filter(({ items }) => items.length > 0);
 ---
 
